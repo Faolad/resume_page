@@ -6,17 +6,17 @@ export const navLinks = [
     {
         name: 'jogoboms',
         image: '/twitter.svg',
-        href: 'twitter.com/faolad1'
+        href: 'https://twitter.com/faolad1'
     },
     {
         name: 'github.com/jogoboms',
         image: '/github.svg',
-        href: 'github.com/Faolad',
+        href: 'https://github.com/Faolad',
     }, 
     {
         name: 'https://jogoboms.github.io',
         image: '/link.svg',
-        href: 'devfaolad.onrender.com'
+        href: 'https://devfaolad.onrender.com'
     }
 ]
 
@@ -134,7 +134,7 @@ export const Experiences = [
             }
         ],
         otherTexts: {
-            text: 'I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.'
+            text: '⏰I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.'
         }
     },
 ]
@@ -147,7 +147,7 @@ export const OpenSource = [
         href: 'https://facebook.com',
         image: '/next.svg',
         commits: '485 / 0 commits/ 0++ / 0-- /',
-        details: 'I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.'
+        details: '⏰I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.'
     },
     {
         id: 2,
@@ -155,7 +155,7 @@ export const OpenSource = [
         href: 'https://google.com',
         image: '/next.svg',
         commits: '485 / 0 commits/ 0++ / 0-- /',
-        details: 'I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.'
+        details: '⏰I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.'
     },
     {
         id: 3,
@@ -163,7 +163,7 @@ export const OpenSource = [
         href: 'https://facebook.com',
         image: '/next.svg',
         commits: '485 / 0 commits/ 0++ / 0-- /',
-        details: 'I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.'
+        details: '⏰I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.'
     },
     {
         id: 4,
@@ -171,7 +171,7 @@ export const OpenSource = [
         href: 'https://google.com',
         image: '/next.svg',
         commits: '485 / 0 commits/ 0++ / 0-- /',
-        details: 'I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.'
+        details: '⏰I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.'
     },
     {
         id: 5,
@@ -179,7 +179,7 @@ export const OpenSource = [
         href: 'https://facebook.com',
         image: '/next.svg',
         commits: '485 / 0 commits/ 0++ / 0-- /',
-        details: 'I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.'
+        details: '⏰I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.'
     },
     {
         id: 6,
@@ -187,7 +187,7 @@ export const OpenSource = [
         href: 'https://facebook.com',
         image: '/next.svg',
         commits: '485 / 0 commits/ 0++ / 0-- /',
-        details: 'I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.'
+        details: '⏰I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.'
     },
     {
         id: 7,
@@ -203,7 +203,7 @@ export const OpenSource = [
         href: 'https://facebook.com',
         image: '/next.svg',
         commits: '485 / 0 commits/ 0++ / 0-- /',
-        details: 'I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.'
+        details: '⏰I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.'
     },
     {
         id: 7,
@@ -211,7 +211,7 @@ export const OpenSource = [
         href: 'https://facebook.com',
         image: '/next.svg',
         commits: '485 / 0 commits/ 0++ / 0-- /',
-        details: 'I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.'
+        details: '⏰I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.'
     },
     {
         id: 7,
@@ -219,7 +219,7 @@ export const OpenSource = [
         href: 'https://facebook.com',
         image: '/next.svg',
         commits: '485 / 0 commits/ 0++ / 0-- /',
-        details: 'I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.'
+        details: '⏰I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.'
     },
 ]
 
@@ -229,7 +229,7 @@ export const Apps = [
         name: 'Ovavue',
         date: 'Mar 2, 2022',
         image: '/next.svg',
-        details: 'I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.',
+        details: '⏰I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.',
         tags: [
             {
                 name: 'android'
@@ -300,6 +300,6 @@ export const Articraft = [
                 name: 'android'
             }
         ],
-        details: 'I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.'
+        details: '⏰I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.'
     }
 ]
