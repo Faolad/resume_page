@@ -1,7 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+body {
+  padding: 0;
+  margin: 0;
+}
 hr {
   @apply my-4 border-t border-gray-300 w-full
 }

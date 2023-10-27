@@ -7,9 +7,9 @@ import { TagProps } from '@/types'
 const HeadSec = () => {
   return (
     <div>
-        <div className='flex w-full max-w-3xl justify-between items-center'>
+        <div className='flex w-full max-w-screen justify-between items-center'>
             <div className=''>
-                <h2 className=' font-semibold'>Adeyeye Faishal Adeola</h2>
+                <span className=' text-3xl font-semibold'>Faishal Adeyeye</span>
                 <p className='text-base'>Software Engineer</p>
             </div>
             <div className=' items-center'>

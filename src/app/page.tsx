@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-    <div className="flex min-h-screen max-w-5xl flex-col mx-auto  px-24 py-12">
+    <div className="min-h-screen max-w-7xl mx-auto px-6 py-6 sm:px-16 lg:px-60 lg:py-16 ">
         <HeadSec />
         <hr/>
         <ExperienceSec />

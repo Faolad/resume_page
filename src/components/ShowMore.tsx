@@ -8,7 +8,7 @@ const ShowMore = ({pageNumber, isNext, setLimit}: ShowMoreProps) => {
     }
   return (
     <div>
-        {isNext && <span onClick={showMore}>Show More</span>}
+        {isNext && <span onClick={showMore} className=' cursor-pointer'>view more</span>}
     </div>
   )
 }
