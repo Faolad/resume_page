@@ -8,10 +8,10 @@ const ExperienceCard = () => {
         <div>
             {Experiences.map((exp)=>(
                 <div key={exp.id} className='flex my-5 w-full'>
-                    <div className=' w-[6%] h-14 relative mr-5'>
+                    <div className=' w-[10%] h-14 relative mr-5'>
                         <Image src={exp.image} alt={exp.image} fill={true} className='object-contain'  />
                     </div>
-                    <div className='w-[90%]'>
+                    <div className='w-[85%]'>
                         <div>
                             <span className=' text-lg'>{exp.name}</span>
                         </div>
