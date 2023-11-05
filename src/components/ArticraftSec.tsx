@@ -4,10 +4,10 @@ import ArticraftCard from './ArticraftCard'
 const ArticraftSec = () => {
   return (
     <div>
-      <div>
-      <h1 className=' text-xs mb-5 font-bold'>PUBLIC ARTICRAFTS</h1>
+      <div className='title-div'>
+        <h1 className='title-text'>PUBLIC ARTICRAFTS</h1>
+      </div>
       <ArticraftCard />
-    </div>
     </div>
   )
 }

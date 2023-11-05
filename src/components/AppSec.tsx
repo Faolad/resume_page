@@ -5,10 +5,10 @@ import AppCard from './AppCard'
 const AppSec = () => {
   return (
     <div>
-      <div>
-        <h1 className=' text-xs mb-5 font-bold'>APPS & SOFTWARES</h1>
+      <div className='title-div'>
+        <h1 className='title-text'>APPS & SOFTWARES</h1>
+      </div>
         <AppCard /> 
-    </div>
     </div>
   )
 }

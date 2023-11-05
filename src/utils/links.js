@@ -44,83 +44,7 @@ export const Experiences = [
         name: 'Software Engineer',
         place: 'Alber Heijin University',
         href: 'https://face.com',
-        date: 'Mar 2, 2022',
-        image: '/twitter.svg',
-        tags: [
-            {
-                name: 'android'
-            },
-            {
-                name: 'ios'
-            },
-            {
-                name: 'android'
-            }
-        ],
-    },
-    {
-        id: 2,
-        name: 'Software Engineer',
-        place: 'Alber Heijin University',
-        href: 'https://face.com',
-        date: 'Mar 2, 2022',
-        image: '/twitter.svg',
-        tags: [
-            {
-                name: 'android'
-            },
-            {
-                name: 'ios'
-            },
-            {
-                name: 'android'
-            }
-        ],
-    },
-    {
-        id: 3,
-        name: 'Software Engineer',
-        place: 'Alber Heijin University',
-        href: 'https://face.com',
-        date: 'Mar 2, 2022',
-        image: '/twitter.svg',
-        tags: [
-            {
-                name: 'android'
-            },
-            {
-                name: 'ios'
-            },
-            {
-                name: 'android'
-            }
-        ],
-    },
-    {
-        id: 4,
-        name: 'Software Engineer',
-        place: 'Alber Heijin University',
-        href: 'https://face.com',
-        date: 'Mar 2, 2022',
-        image: '/twitter.svg',
-        tags: [
-            {
-                name: 'android'
-            },
-            {
-                name: 'ios'
-            },
-            {
-                name: 'android'
-            }
-        ],
-    },
-    {
-        id: 5,
-        name: 'Software Engineer',
-        place: 'Alber Heijin University',
-        href: 'https://face.com',
-        date: 'Mar 2, 2022',
+        date: '2022-2023',
         image: '/twitter.svg',
         tags: [
             {
@@ -135,7 +59,100 @@ export const Experiences = [
         ],
         otherTexts: {
             text: '⏰I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.'
-        }
+        },
+        years: 2
+    },
+    {
+        id: 2,
+        name: 'Javascript Developer',
+        place: 'Alber Heijin University',
+        href: 'https://face.com',
+        date: '2021-2022',
+        image: '/twitter.svg',
+        tags: [
+            {
+                name: 'android'
+            },
+            {
+                name: 'ios'
+            },
+            {
+                name: 'android'
+            }
+        ],
+        otherTexts: {
+            text: '⏰I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.'
+        },
+        years: 2
+    },
+    {
+        id: 3,
+        name: 'Web Developer',
+        place: 'Alber Heijin University',
+        href: 'https://face.com',
+        date: '2020-2021',
+        image: '/twitter.svg',
+        tags: [
+            {
+                name: 'android'
+            },
+            {
+                name: 'ios'
+            },
+            {
+                name: 'android'
+            }
+        ],
+        otherTexts: {
+            text: '⏰I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.'
+        },
+        years: 2
+    },
+    {
+        id: 4,
+        name: 'Software Engineer',
+        place: 'Alber Heijin University',
+        href: 'https://face.com',
+        date: '2022-2024',
+        image: '/twitter.svg',
+        tags: [
+            {
+                name: 'android'
+            },
+            {
+                name: 'ios'
+            },
+            {
+                name: 'android'
+            }
+        ],
+        otherTexts: {
+            text: '⏰I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.'
+        },
+        years: 2
+    },
+    {
+        id: 5,
+        name: 'Software Engineer',
+        place: 'Alber Heijin University',
+        href: 'https://face.com',
+        date: '2024-2025',
+        image: '/twitter.svg',
+        tags: [
+            {
+                name: 'android'
+            },
+            {
+                name: 'ios'
+            },
+            {
+                name: 'android'
+            }
+        ],
+        otherTexts: {
+            text: '⏰I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.'
+        },
+        years: 2
     },
 ]
 

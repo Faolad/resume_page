@@ -5,7 +5,9 @@ import { OpenSource } from '@/utils/links'
 const OpenSourceSec = () => {
   return (
     <div>
-      <h1 className=' text-xs mb-5 font-bold'>OPEN SOURCE({OpenSource.length})</h1>
+      <div className='title-div'>
+        <h1 className='title-text'>OPEN SOURCE({OpenSource.length})</h1>
+      </div>
 
       <OpenSourceCard />
       

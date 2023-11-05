@@ -5,6 +5,7 @@ import ArticraftSec from "./ArticraftSec";
 import OpenSourceSec from "./OpenSourceSec";
 import ToolSec from "./ToolSec";
 import Tag from "./Tag";
+import SideNav from "./SideNav";
 
 export {
     HeadSec,
@@ -14,5 +15,6 @@ export {
     OpenSourceSec,
     ToolSec,
     Tag,
+    SideNav,
 
 }

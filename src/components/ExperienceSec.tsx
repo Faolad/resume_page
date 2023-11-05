@@ -4,9 +4,12 @@ import ExperienceCard from './ExperienceCard'
 const ExperienceSec = () => {
   return (
     <div>
-      <h1 className=' text-xs mb-5 font-bold'>EXPERIENCE</h1>
+      <div className='title-div'>
+        <h1 className='title-text'>EXPERIENCE</h1>
+      </div>
 
       <ExperienceCard />
+
     </div>
   )
 }
