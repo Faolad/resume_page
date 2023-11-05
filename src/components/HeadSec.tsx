@@ -7,9 +7,9 @@ import { navLinks, navTags } from '@/utils/links'
 const HeadSec = () => {
   return (
     <div>
-        <div className='lg:flex lg:gap-5 max-w-screen justify-between items-center mb-5 lg:mb-10 text-blue-600'>
+        <div className='lg:flex lg:gap-5 max-w-screen justify-between items-center my-5 lg:my-10 mb-2 lg:mb-5 text-blue-600'>
 
-            <div className='flex-1 lg:hidden relative w-52 h-52 lg:h-64 mx-auto mb-5'>
+            <div className='flex-1 lg:hidden relative w-32 h-32 lg:h-64 mx-auto mb-5'>
                 <Image src='/passport.jpg' alt='profilepic' fill={true} className='rounded-full object-cover' />
             </div>
             

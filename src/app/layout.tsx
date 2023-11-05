@@ -26,7 +26,7 @@ export default function RootLayout({
           </div>
           
           <div className=' w-[70%] ml-[30%]'>
-            <div  className='m-5 md:m-10'>
+            <div  className='m-2 md:m-5'>
               {children}
             </div>
           </div>
