@@ -14,9 +14,9 @@ const ExperienceCard = () => {
                         </div>
                     </div>
                     <div className='w-[80%]'>
-                        <div>
+                        <div className='mb-2 lg:mb-5'>
                             <div className=' text-lg lg:text-xl font-bold text-blue-600'>{exp.name}</div>
-                            <div className='text-sm lg:text-lg'><a href={exp.href} target='_blank'>{exp.place}</a></div>
+                            <div className=' text-xs lg:text-sm'><a href={exp.href} target='_blank'>{exp.place}</a></div>
                         </div>
                         {/* <div>
                             <span className=' text-xs'>{exp.date}</span>
